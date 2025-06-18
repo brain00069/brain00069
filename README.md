@@ -1,8 +1,11 @@
-## Hi there 👋, I'm Brian
+## Hi👋, I'm Brian
 
 👨‍🎓 Current Student in M.S. Business Analytics @ UCI
+
 👨‍💻 Student Business Analyst @ BSH Home Appliances
+
 👨‍💼 Project Executive @ BBDO Taiwan (team x)
+
 📊 Specializes in Data Analytics / Business Intelligence / Operations Research / Marketing Analytics
 
 <!--
