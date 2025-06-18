@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Brian
+
+👨‍🎓 Current Student in M.S. Business Analytics @ UCI
+👨‍💻 Student Business Analyst @ BSH Home Appliances
+👨‍💼 Project Executive @ BBDO Taiwan (team x)
+📊 Specializes in Data Analytics / Business Intelligence / Operations Research / Marketing Analytics
 
 <!--
 **brain00069/brain00069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
